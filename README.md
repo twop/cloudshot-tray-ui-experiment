@@ -2,6 +2,9 @@
 
 started from eframe template
 
+<img width="342" alt="image" src="https://user-images.githubusercontent.com/6633216/220230640-72a90e57-0899-4bae-8366-b28baa7afff7.png">
+
+
 ## eframe template
 
 [![dependency status](https://deps.rs/repo/github/emilk/eframe_template/status.svg)](https://deps.rs/repo/github/emilk/eframe_template)
